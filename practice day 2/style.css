@@ -1,0 +1,33 @@
+.search
+{
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+    margin-left: 20%;
+}
+.main-container
+{
+    display: flex;
+    justify-content: space-between;
+    grid: 15px;
+    flex-wrap: wrap;
+}
+.product{
+    width: 410px;
+    border: 1px solid black;
+    /* display: flex; */
+}
+.food-img
+{
+    width: 400px;
+}
+.h1-con
+{
+    text-align: center;
+    border: 1px solid black;
+    box-shadow: 4px 4px 8px gray;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
